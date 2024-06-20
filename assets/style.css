@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+a {
+    color: white;
+    padding: 10px;
+}
+header {
+    background-color: rgb(0, 108, 65);
+    display: block;
+    text-align: right;
+    display: fixed;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 10px solid peachpuff;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: rgba(169, 169, 169, 1);
+    margin-bottom: 15px;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: rgba(169, 169, 169, 1);
+    font-size: 36px;
+}
+p {
+    text-align: center;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+form {
+    text-align: center;
+    display: block;
+    border: 1px green solid;
+    border-radius: 1em;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+button {
+    background-color: grey;
+    width: 80px;
+    height: 30px;
+}
+footer{
+    background-color: rgb(0, 108, 65);
+    display: block;
+    text-align: center;
+    display: fixed;
+    color: white;
+    padding: 10px;
+    border-bottom: 10px solid peachpuff;
+}
+.topLink {
+    color: white;
+    display: inline;
+}
+#contactSection {
+    background-color: peachpuff;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
